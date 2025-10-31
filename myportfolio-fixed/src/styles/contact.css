@@ -1,0 +1,21 @@
+/* ===== contact.css ===== */
+.contact {
+  padding: 100px 0;
+  background-color: #0A0A0A;
+}
+
+.contact p {
+  color: #ccc;
+  font-size: 1.1rem;
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, #007BFF, #00C9A7);
+  border: none;
+  color: #fff;
+}
+
+.btn-primary:hover {
+  background: linear-gradient(135deg, #00C9A7, #007BFF);
+}

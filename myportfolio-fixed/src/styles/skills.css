@@ -1,0 +1,24 @@
+/* ===== skills.css ===== */
+.skills {
+  padding: 100px 0;
+  background-color: #0A0A0A;
+}
+
+.skill-card {
+  background-color: #121212;
+  border-radius: 12px;
+  padding: 30px;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.skill-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 20px rgba(0, 201, 167, 0.2);
+}
+
+.skill-card .icon {
+  font-size: 3rem;
+  color: #00C9A7;
+  margin-bottom: 10px;
+}
